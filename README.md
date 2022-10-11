@@ -1,6 +1,7 @@
 # C170
 
-#COMPETENCIES
+<strong>COMPETENCIES</strong>
+
 4018.1.1 : Conceptual Models to Physical Schemas
 
 The graduate creates conceptual data models and translates them into physical schemas.
@@ -25,17 +26,20 @@ The graduate populates tables with insert, update, and delete using DML in the M
 
 The graduate creates simple Select-From-Where (SFW) and complex 3+ table join queries with Data Manipulation Language (DML) in MySQL environment.
 
-#INTRODUCTION
+<strong>INTRODUCTION</strong>
+
 For this assessment, you will be creating an entity-relationship (ER) model, databases, tables, and queries for two fictional small businesses. To complete this assessment, you will use SQL to test and run a database application that you will develop. After running the code, you will take a screenshot of your results and paste the screenshot into a document that you will submit.
 
 The work you complete for each part of the assessment (i.e., the design models and diagrams, tables, written explanations, SQL script code, and screenshot results from running your SQL scripts in a SQL tool) should be saved as a single PDF file that you will submit.
 
 Note: If you do not have access to a database tool, you may use SQL Fiddle (an online SQL tool) to complete this assessment. The tool can be accessed using the “SQL Fiddle” link in the Web Links section of this task. Instructions for how to use SQL Fiddle for each part of the assessment are included in the attached document “SQL Fiddle Instructions.” Please note that for each part of the assessment, there are explicit instructions on what SQL code you will need to copy and paste into the SQL Fiddle panels to run your test.
 
-#SCENARIO
+<strong>SCENARIO</strong>
+
 You are a database designer and developer who has been hired by two local businesses, Nora’s Bagel Bin and Jaunty Coffee Co., to build databases to help them manage their businesses. First, you will design a normalized physical database model to store data for Nora’s Bagel Bin’s ordering system. Then, you will use an existing database design document for Jaunty Coffee Co. to create its database. Once the tables have been built, you will load them with sample data and create a view and an index to protect and improve query performance. Finally, you will create both a simple query and a more complex table joins query to produce meaningful reports from the newly created database.
 
-#REQUIREMENTS
+<strong>REQUIREMENTS</strong>
+
 Your submission must be your original work. No more than a combined total of 30% of a submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. An originality report is provided when you submit your task that can be used as a guide.
 
  
